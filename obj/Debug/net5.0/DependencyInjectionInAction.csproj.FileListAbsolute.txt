@@ -1,3 +1,10 @@
+E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
+E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
+E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
+E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
+E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
+E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
+E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
 E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\appsettings.Development.json
 E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\appsettings.json
 E:\Projects\DependencyInjectionInAction\bin\Debug\net5.0\DependencyInjectionInAction.exe
