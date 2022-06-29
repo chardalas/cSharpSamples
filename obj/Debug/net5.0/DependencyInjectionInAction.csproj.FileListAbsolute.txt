@@ -34,3 +34,4 @@ E:\Projects\DependencyInjectionInAction\obj\Debug\net5.0\DependencyInjectionInAc
 E:\Projects\DependencyInjectionInAction\obj\Debug\net5.0\ref\DependencyInjectionInAction.dll
 E:\Projects\DependencyInjectionInAction\obj\Debug\net5.0\DependencyInjectionInAction.pdb
 E:\Projects\DependencyInjectionInAction\obj\Debug\net5.0\DependencyInjectionInAction.genruntimeconfig.cache
+C:\Users\Aura\source\repos\cSharpSamples\obj\Debug\net5.0\DependencyInjectionInAction.pdb
