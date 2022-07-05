@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\DependencyInjectionInAction.csproj": {}
   },
   "projects": {
@@ -12,20 +13,41 @@
         "projectPath": "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\DependencyInjectionInAction.csproj",
         "packagesPath": "C:\\Users\\Aura\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\obj\\",
+=======
+    "C:\\Users\\Aura\\source\\repos\\cSharpSamples\\DependencyInjectionInAction.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aura\\source\\repos\\cSharpSamples\\DependencyInjectionInAction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aura\\source\\repos\\cSharpSamples\\DependencyInjectionInAction.csproj",
+        "projectName": "DependencyInjectionInAction",
+        "projectPath": "C:\\Users\\Aura\\source\\repos\\cSharpSamples\\DependencyInjectionInAction.csproj",
+        "packagesPath": "C:\\Users\\Aura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aura\\source\\repos\\cSharpSamples\\obj\\",
+>>>>>>> a76f13798a3de469a31c1a18d69302212712ba20
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aura\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
+<<<<<<< HEAD
           "net471"
+=======
+          "net48"
+>>>>>>> a76f13798a3de469a31c1a18d69302212712ba20
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
+<<<<<<< HEAD
           "net471": {
+=======
+          "net48": {
+>>>>>>> a76f13798a3de469a31c1a18d69302212712ba20
             "projectReferences": {}
           }
         },
@@ -36,7 +58,21 @@
         }
       },
       "frameworks": {
+<<<<<<< HEAD
         "net471": {
+=======
+        "net48": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+>>>>>>> a76f13798a3de469a31c1a18d69302212712ba20
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       },
