@@ -1,38 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\DependencyInjectionInAction\\DependencyInjectionInAction.csproj": {}
+    "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\DependencyInjectionInAction.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\DependencyInjectionInAction\\DependencyInjectionInAction.csproj": {
+    "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\DependencyInjectionInAction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\DependencyInjectionInAction\\DependencyInjectionInAction.csproj",
+        "projectUniqueName": "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\DependencyInjectionInAction.csproj",
         "projectName": "DependencyInjectionInAction",
-        "projectPath": "E:\\Projects\\DependencyInjectionInAction\\DependencyInjectionInAction.csproj",
-        "packagesPath": "C:\\Users\\chardalase\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\DependencyInjectionInAction\\obj\\",
+        "projectPath": "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\DependencyInjectionInAction.csproj",
+        "packagesPath": "C:\\Users\\Aura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aura\\source\\repos\\chardalas\\cSharpSamples\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\chardalase\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Aura\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net471"
         ],
         "sources": {
-          "C:\\My Documents\\Visual Studio 2012\\Projects\\PADO In-House Applications\\PAD-1195\\chardalase\\AppsAdmin\\packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net471": {
             "projectReferences": {}
           }
         },
@@ -43,37 +36,13 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.10.13, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "net471": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
